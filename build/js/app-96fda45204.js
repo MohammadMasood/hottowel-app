@@ -1,7 +1,7 @@
 /**
  * hottowelApp - hottowelApp Project Generated from HotTowel Angular
  * @authors 
- * @version v0.0.0
+ * @version v0.0.2
  * @link 
  * @license 
  */
